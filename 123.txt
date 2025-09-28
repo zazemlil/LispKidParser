@@ -1,9 +1,13 @@
+# comment 1
 (cdr ( quote ( (quote (A B)) (quote (C D)) ))).
 
+# comment 2
 ( cons (sub 3 7) ( cdr (quote( A B C ))) ).
 
+# comment 3
 ( cons (sub 3 7) ( cdr (quote( A B C ))) ).
 
+# comment 4
 (
 let(del a b)
     (del 
