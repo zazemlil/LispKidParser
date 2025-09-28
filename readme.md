@@ -1,7 +1,7 @@
 Инструкция:
 1) python -m venv ./.venv
-2) .\.venv\Scripts\activate.bat
-3) .\.venv\Scripts\pip install -r requirements.txt
+2) .\\.venv\Scripts\activate.bat
+3) .\\.venv\Scripts\pip install -r requirements.txt
 4) ./build.bat
 
 Если хотите, что бы парсер работал чуть быстрее - запускайте просто через питон (4 пункт пропускаете).
